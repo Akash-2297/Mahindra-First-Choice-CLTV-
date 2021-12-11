@@ -26,6 +26,8 @@ Identify the type of order each state receives and present it as an interactive 
 13) Model Selection for Regression based on R Square value
 # Plotly Dashboard
 
+![20211211_151051](https://user-images.githubusercontent.com/56502247/145674086-140a074b-13da-4715-a271-797ce8758f36.gif)
+
 
 
 
